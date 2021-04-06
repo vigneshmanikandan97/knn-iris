@@ -19,7 +19,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 A step by step series of examples that tell you how to get a development env running.
 
-It is always better to have a virtual environment so that you can go ham on your changes and still not end up breaking your system. All the necessary packages required to run this project is provided in the [requirements][/requirements.txt] file.
+It is always better to have a virtual environment so that you can go ham on your changes and still not end up breaking your system. All the necessary packages required to run this project is provided in the [requirements](/requirements.txt) file.
 
 ```python
 pip install -r requirements.txt
